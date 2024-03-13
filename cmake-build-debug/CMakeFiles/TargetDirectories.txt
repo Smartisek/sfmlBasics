@@ -1,0 +1,3 @@
+C:/Users/domal/OneDrive/Plocha/DKIT/SecondYear/C++/sfml/cmake-build-debug/CMakeFiles/sfml_002.dir
+C:/Users/domal/OneDrive/Plocha/DKIT/SecondYear/C++/sfml/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/domal/OneDrive/Plocha/DKIT/SecondYear/C++/sfml/cmake-build-debug/CMakeFiles/rebuild_cache.dir
